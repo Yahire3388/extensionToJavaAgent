@@ -1,3 +1,6 @@
+This is the extension i am using to add to my java agent of OTEL.
+demoextension.jar is the jar created with gradle script.
+
 ## Introduction
 
 Extensions add new features and capabilities to the agent without having to create a separate distribution (for examples and ideas, see [Use cases for extensions](#sample-use-cases)).
