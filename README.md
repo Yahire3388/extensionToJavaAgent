@@ -1,5 +1,6 @@
 This is the extension i am using to add to my java agent of OTEL.
 demoextension.jar is the jar created with gradle script.
+setenv.bat is also uploaded which indicates how i am passing agent and its extension while startup of tomcat server.
 
 ## Introduction
 
